@@ -1,0 +1,32 @@
+body{
+background: #77A1D3;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+.recipe-heading{
+    text-align: center;
+    font-size: 3rem;
+    color: #fdfdfd;
+    
+}
+
+img{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.recipe-description{
+    font-size: 2rem;
+    padding-top: 50px;
+    border: 3px;
+    border-color: black;
+}
+
+h3{
+    font-size: 1.9rem;
+}

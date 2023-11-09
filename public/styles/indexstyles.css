@@ -1,0 +1,24 @@
+html {
+    height: 100%;
+}
+
+body{
+    /* background-image: linear-gradient(to bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+    background-repeat: no-repeat;
+    background-image: url("./cool-background.svg");
+
+}
+
+.indexHeading{
+    text-align: center;
+    color: #12b8eb;
+    text-shadow: -3px 2px 2px #2f342f;
+    
+}
+
+
+a{
+    font-size: 2rem;
+    color: #929ce1 ;
+    text-decoration: none;
+}
